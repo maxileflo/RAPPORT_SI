@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="bibliographie">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="livre"/>
+	    <xs:element maxOccurs="unbounded" ref="article"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="livre">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="titre"/>
+        <xs:element ref="auteur"/>
+        <xs:element ref="editeur"/>
+	    <xs:element ref="lieu"/>
+        <xs:element ref="date"/>
+	    <xs:element ref="pages"/>
+	    <xs:element ref="id"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="article">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="titre"/>
+        <xs:element ref="auteur"/>
+        <xs:element ref="uri"/>
+        <xs:element ref="date"/>
+	    <xs:element ref="id"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="titre" type="xs:string"/>
+  <xs:element name="auteur" type="xs:string"/>
+  <xs:element name="editeur" type="xs:string"/>
+  <xs:element name="lieu" type="xs:string"/>
+  <xs:element name="date" type="xs:NMTOKEN"/>
+  <xs:element name="pages" type="xs:integer"/>
+  <xs:element name="uri" type="xs:anyURI"/>
+  <xs:element name="id" type="xs:integer"/>
+</xs:schema>
