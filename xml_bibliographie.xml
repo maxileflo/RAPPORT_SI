@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<bibliographie> 
+   <livre> 
+      <titre>Introduction to Machine Learning</titre> 
+      <auteur>Alex Smola</auteur> 
+      <editeur>Cambrige University Press</editeur> 
+      <lieu>United Kindom</lieu> 
+      <date>2008</date> 
+      <pages>115</pages>
+	  <id>1</id>
+   </livre> 
+   <livre> 
+      <titre>Introduction au Machine Learning</titre> 
+      <auteur>Chloé-Agathe Azencott</auteur> 
+      <editeur>Dunod</editeur> 
+      <lieu>Paris</lieu> 
+      <date>2018</date> 
+      <pages>180</pages>
+	  <id>2</id>
+   </livre> 
+   <livre> 
+      <titre>Understanding Machine Learning:From Theory to Algorithms</titre> 
+      <auteur> Shai Shalev-Shwartz and Shai Ben-David</auteur> 
+      <editeur>Cambridge University Press</editeur> 
+      <lieu>UK</lieu> 
+      <date>2014</date> 
+      <pages>449</pages>
+	  <id>3</id>
+   </livre> 
+   <livre> 
+      <titre>machine learning avec scikit-learn,mise oeurvres et concept</titre> 
+      <auteur>Aurélien Géron</auteur> 
+      <editeur>Dunod</editeur> 
+      <lieu>France</lieu> 
+      <date>2019</date> 
+      <pages>320</pages>
+	  <id>4</id>
+   </livre>
+   <article> 
+      <titre>plateforme de segmentation clients.  La segmentation clients, grands principes et utilisations</titre> 
+      <auteur>DATACOOK</auteur> 
+      <uri>https://www.datacook.io/2021/01/01/segmentation-clients-principes-utilisations/</uri> 
+      <date>2021</date>
+	  <id>5</id>
+   </article> 
+   <article> 
+      <titre>{Introduction au Machine learning et à la classification supervisee</titre> 
+      <auteur>Agathe Guilloux</auteur> 
+      <uri>http://www.math-evry.cnrs.fr/_media/members/aguilloux/enseignements/machinelearningpython/slides.pdf</uri> 
+      <date>2018</date>
+	  <id>6</id>
+   </article>
+   <article> 
+      <titre>Le machine learning et la segmentation client</titre> 
+      <auteur>WIS ECOLES</auteur> 
+      <uri>https://www.wis-ecoles.com/machine-learning-segmentation-client/</uri> 
+      <date>2022</date>
+	  <id>7</id>
+   </article> 
+     <article> 
+      <titre>La Segmentation Client Grâce à La Data Science . Medium, 8 février 2019</titre> 
+      <auteur>Ly, Thao</auteur> 
+      <uri>https://thaoly-22574.medium.com/la-segmentation-client-gr%C3%A2ce-%C3%A0-ladata-science-1af6caf8e52d</uri> 
+      <date>2019</date>
+	  <id>8</id>
+   </article> 
+   <article> 
+      <titre>Quelle méthode utiliser pour analyser sa base clients</titre> 
+      <auteur>LaPtiteAlsacienne</auteur> 
+      <uri>https://www.laptitealsacienne.com/methode-utiliser-analyser-baseclients/</uri> 
+      <date>2016</date>
+      <id>9</id>	  
+   </article>
+   <article> 
+      <titre>Maching learning</titre> 
+      <auteur>Tutorials Point (I) Pvt. Ltd</auteur> 
+      <uri>https://www.tutorialspoint.com/machine_learning/machine_learning_tutorial.pdf</uri> 
+      <date>2019</date>
+      <id>10</id>	  
+   </article>
+   <article> 
+      <titre>Qu est-ce que le machine learning?</titre> 
+      <auteur>HP Entreprise</auteur> 
+      <uri>https://www.hpe.com/be/fr/what-is/machine-learning.html</uri> 
+      <date>2014</date>
+	  <id>11</id>
+   </article>
+   <article> 
+      <titre>Segmentation d’un fichier client | Machine Learning</titre> 
+      <auteur>FUMERY Michael</auteur> 
+      <uri>https://www.slideshare.net/MichaelFUMERY1/segmentation-dun-fichier-clientmachine-learning</uri> 
+      <date>2021</date>
+	  <id>12</id>
+   </article>
+   <article> 
+      <titre>Segmentation d’un fichier client | Machine Learning</titre> 
+      <auteur>Wizaly</auteur> 
+      <uri>https://www.wizaly.fr/blog/data-science-intelligence-artificielle/segmentation-etclustering-de-la-data-methodes-et-enjeux/</uri> 
+      <date>2019</date> 
+	  <id>13</id>
+   </article>
+   <article> 
+      <titre>Comment le machine learning améliore la connaissance client | SeaBird . Cabinet de conseil en Actuariat, Finance, Assurance : Seabird</titre> 
+      <auteur>Sylvain</auteur> 
+      <uri>https://www.seabirdconseil.com/nos-decryptages/comment-ameliorer-la-connaissancedes-assures-grace-au-machine-learning/</uri> 
+      <date>2022</date>
+	  <id>14</id>
+   </article>
+   <article> 
+      <titre>Apprendre le Machine Learning de A à Z.  Tout ce que vous voulez savoir sur l algorithme K-Means</titre> 
+      <auteur>Mr. Mint</auteur> 
+      <uri>https://mrmint.fr/algorithme-k-means</uri> 
+      <date>2018</date>
+	  <id>15</id>
+   </article>
+   <article> 
+      <titre>Customer Segmentation using maching Learning</titre> 
+      <auteur>Nikhi</auteur> 
+      <uri>https://doi.org/10.3233/APC210200</uri> 
+      <date>2021</date>
+	  <id>16</id>
+   </article>
+   <article> 
+      <titre>Machine Learning, Statistiques et Programmation</titre> 
+      <auteur>Xavier Dupré</auteur> 
+      <uri>http://www.xavierdupre.fr/app/mlstatpy/helpsphinx/mlstatpy_doc.pdf</uri> 
+      <date>2021</date>
+	  <id>17</id>
+   </article>
+   <article> 
+      <titre>Segmenter grâce au Machine Learning:Quelle approche choisir</titre> 
+      <auteur>Customer Marketing</auteur> 
+      <uri>https://docplayer.fr/71936973-Segmenter-grace-au-machine-learning-quelle-approche-choisir.html</uri> 
+      <date>2020</date>
+	  <id>18</id>
+   </article>
+   <article> 
+      <titre>Intelligence artificielle et marketing :la créativité humaine amplifiée</titre> 
+      <auteur>Microsoft</auteur> 
+      <uri>https://advertiseonbing.blob.core.windows.net/blob/bingads/media/library/premium/insight/ai-ebook/msf20_013_ebk_bigrock_dec_2017_final-fr-fr.pdf?ext=.pdf</uri> 
+      <date>2018</date>
+	  <id>19</id>
+   </article>
+   <article> 
+      <titre>Machine Learning et nouvelles sources de données</titre> 
+      <auteur>Christophe PÈrignon</auteur> 
+      <uri>https://ideas.repec.org/p/leo/wpaper/2739.html</uri> 
+      <date>2019</date>
+	  <id>20</id>
+   </article>
+   <article> 
+      <titre>Introduction à l’apprentissage automatique</titre> 
+      <auteur>Frédéric SUR</auteur> 
+      <uri>https://members.loria.fr/FSur/enseignement/apprauto/poly_apprauto_FSur.pdf</uri> 
+      <date>2022</date>
+	  <id>21</id>
+   </article>
+</bibliographie>
